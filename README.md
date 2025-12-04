@@ -17,7 +17,7 @@ I'm a passionate **Web3 Security Researcher** and **Blockchain Developer** focus
 - Vulnerability research & exploit mitigation
 - DeFi protocols, EVM internals, and formal verification
 
-### 🎯 2025 Goal
+### 🎯 2026 Goal
 - Complete **50+ security audits** and contribute to major audit platforms like **Code4rena**, **CodeHawks**, and **Sherlock**
 
 ### 💡 Philosophy
