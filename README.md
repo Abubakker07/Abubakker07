@@ -1,24 +1,27 @@
 ## 🎯 About Me
 
-On a mission to secure the decentralized future, one smart contract at a time.
+Focused on building the future of mobile and web transit solutions—one line of code at a time.
 
-I'm a passionate **Web3 Security Researcher** and **Blockchain Developer** focused on becoming a professional **Smart Contract Security Auditor**. Currently diving deep into the intricacies of DeFi security, hunting for vulnerabilities, and contributing to building a safer Web3 ecosystem.
+I'm a **Full-Stack Developer** and university student based in **Bengaluru**. I specialize in creating seamless mobile experiences with **Kotlin & Jetpack Compose**. Currently, I'm deep-diving into ride-hailing architecture and RESTful API design.
 
 ---
 
-### 🔐 Primary Focus
-- Web3 Security & Smart Contract Auditing
+### 📱 Full-Stack Focus
+- **Mobile:** Android Development (Kotlin, Jetpack Compose, Retrofit)
+- **Web:** Backend Architecture (Javascript, MySQL CLI, REST APIs)
 
 ### 🏗️ Currently Building
-- Blockchain applications with **JavaScript**, **Ether.js**, and **Solidity**
+- **NammaRide:** A ride-hailing app for Bengaluru's major transit hubs.
+- **Custom APIs:** Lightweight, framework-free PHP backends for real-time data handling.
 
-### 📚 Learning
-- Advanced security auditing techniques
-- Vulnerability research & exploit mitigation
-- DeFi protocols, EVM internals, and formal verification
+### 📚 Learning & Preparation
+- **Advanced UI/UX:** Crafting intuitive interfaces for commuters.
+- **System Architecture:** Scaling MySQL databases for high-traffic simulations.
+- **Aptitude & Logic:** Refining Quantitative and Verbal skills for upcoming placement assessments.
 
 ### 🎯 2026 Goal
-- Complete **50+ security audits** and contribute to major audit platforms like **Code4rena**, **CodeHawks**, and **Sherlock**
+- Deploy **NammaRide** as a full production-ready MVP.
+- Secure a role at a tech-forward firms where I can blend my technical logic with user-focused solutions.
 
 ### 💡 Philosophy
-> *"Code is law, but security is justice"*
+> *"Frameworks are tools, but understanding the core logic is the true craft."*
