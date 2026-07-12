@@ -1,6 +1,6 @@
 ## 🎯 About Me
 
-Focused on building the future of mobile and web transit solutions—one line of code at a time.
+Focused on building the future of mobile and web transit solutions, one line of code at a time.
 
 I'm a **Full-Stack Developer** and student based in **Bengaluru**. I specialize in creating seamless mobile experiences with **Kotlin & Jetpack Compose**. 
 
